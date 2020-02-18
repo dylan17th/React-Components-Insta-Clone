@@ -1,10 +1,13 @@
 .App {
   text-align: center;
+  padding: 1rem;
+  max-width: 100%;
 }
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
+  padding: 1rem;
 }
 
 .App-header {
@@ -30,3 +33,4 @@
     transform: rotate(360deg);
   }
 }
+
